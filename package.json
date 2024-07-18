@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.2.1",
+    "zksync-web3": "^0.17.1"
+  },
+  "scripts": {
+    "start": "ts-node Main.ts",
+      "build": "tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
